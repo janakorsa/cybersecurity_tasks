@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form method="post" action="profile.php">
+E-mail: <input type="text" name="email">
+<br>
+firstname: <input type="text" name="firstname">
+<br>
+lastname: <input type="text" name="lastname">
+<br>
+age: <input type="text" name="age">
+<br>
+password: <input type="password" placeholder="Enter Password" name="password">
+<br>
+<input type="submit" value="Sign up">
+</form>
+</body>
+</html>
+
+
